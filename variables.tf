@@ -1,13 +1,13 @@
 variable "region" {
-  default = "us-east-2"
+  default = "us-east-1"
 }
 
 variable "access_key" {
-  default = "AKIA5S5YVN2L25NZEFXY"
+  default = "AKIAWPZYT4CW7JE4PAUW"
 }
 
 variable "secret_key" {
-  default = "AVwOLZX+c07yUahI/sBscQTkoffiJGABuvC3GnUM"
+  default = "fROwUoBKSrkAdJXufQ6JXLwwnvXpUw8CFypqI6/N"
 }
 
 variable "ami" {
