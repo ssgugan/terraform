@@ -11,7 +11,7 @@ variable "secret_key" {
 }
 
 variable "ami" {
-  default = "ami-05bfbece1ed5beb54"
+  default = "ami-0aa7d40eeae50c9a9"
 }
 
 variable "instance_type" {
