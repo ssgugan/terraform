@@ -4,7 +4,7 @@ provider "aws" {
 	secret_key = var.secret_key
 }
 
-resource "aws_instance" "webserver" {
+resource "aws_instance" "devserver" {
   ami = var.ami
   instance_type = var.instance_type
   subnet_id     = "subnet-07152dfe960fc56a1"
