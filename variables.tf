@@ -3,11 +3,11 @@ variable "region" {
 }
 
 variable "access_key" {
-  default = "AKIAWPZYT4CW7JE4PAUW"
+  default = "AKIA5S5YVN2L43BWOBHX"
 }
 
 variable "secret_key" {
-  default = "fROwUoBKSrkAdJXufQ6JXLwwnvXpUw8CFypqI6/N"
+  default = "QS7iUpmqbPtI/Gs0Alu3Nqc/gssWip4EnskxU8Uv"
 }
 
 variable "ami" {
